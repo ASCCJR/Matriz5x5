@@ -4,6 +4,10 @@
  * Declara funções para inicialização, limpeza e acender um pixel específico.
  */
 
+/**
+ * https://github.com/ASCCJR
+ */
+
 #ifndef MATRIZ_H
 #define MATRIZ_H
 
