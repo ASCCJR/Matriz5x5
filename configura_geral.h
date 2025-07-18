@@ -1,3 +1,7 @@
+/**
+ * https://github.com/ASCCJR
+ */
+
 #ifndef CONFIGURA_GERAL_H
 #define CONFIGURA_GERAL_H
 
