@@ -4,6 +4,10 @@
  * Inclui funções para inicialização, limpeza e acender um pixel específico.
  */
 
+/**
+ * https://github.com/ASCCJR
+ */
+
 #include "matriz.h"
 #include "configura_geral.h" // Para MATRIZ_PIN (que deve estar definido como 7)
 #include "hardware/pio.h"
